@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c868ee9f-f9cc-480a-95ae-9bf55e1ab7ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AppiumTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RmUDng33XkBqt1v6eVlpt1jein" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in Android.py">
+    <configuration name="pytest for Android.test_visitor_server_setup" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Android.test_visitor_server_setup&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Android.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="AppiumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Android.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Android.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Android.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in Android.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c868ee9f-f9cc-480a-95ae-9bf55e1ab7ce" name="Default Changelist" comment="" />
+      <created>1556093139023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556093139023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_Android_py - 2019.05.07 at 11h 00m 31s.xml">
+      <configuration name="pytest in Android.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Android_test_app_server_setup - 2019.05.07 at 11h 01m 02s.xml">
+      <configuration name="pytest for Android.test_app_server_setup" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Android_test_visitor_server_setup - 2019.05.07 at 11h 01m 21s.xml">
+      <configuration name="pytest for Android.test_visitor_server_setup" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Android_test_visitor_server_setup - 2019.05.07 at 11h 01m 38s.xml">
+      <configuration name="pytest for Android.test_visitor_server_setup" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Android_py - 2019.05.07 at 11h 04m 59s.xml">
+      <configuration name="pytest in Android.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Android_test_app - 2019.05.07 at 11h 21m 55s.xml">
+      <configuration name="pytest for Android.test_app" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Android_test_app_server_setup - 2019.05.07 at 11h 22m 52s.xml">
+      <configuration name="pytest for Android.test_app_server_setup" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Android_py - 2019.05.07 at 11h 26m 04s.xml">
+      <configuration name="pytest in Android.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Android_py - 2019.05.07 at 11h 29m 10s.xml">
+      <configuration name="pytest in Android.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Android_py - 2019.05.07 at 12h 49m 36s.xml">
+      <configuration name="pytest in Android.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="113" y="1" key="SettingsEditor" timestamp="1576151037379">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="113" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576151037379" />
+  </component>
+</project>
